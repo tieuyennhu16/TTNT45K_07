@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A65F077D-C1DD-4B45-A2C4-9387ECA26C20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>phongtro</RootNamespace>
+    <AssemblyName>phongtro</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.6.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Xpo.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v15.1.Core, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FileKetNoiCSDL\DataAccess.cs" />
+    <Compile Include="HeThongGiaoDien\frm_PhieuThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_PhieuThue.designer.cs">
+      <DependentUpon>frm_PhieuThue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\NguoiNha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\NguoiNha.Designer.cs">
+      <DependentUpon>NguoiNha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\SaoLuu_HHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\SaoLuu_HHH.Designer.cs">
+      <DependentUpon>SaoLuu_HHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Cap_Nhat_Trang_Thai_Thue_HHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Cap_Nhat_Trang_Thai_Thue_HHH.Designer.cs">
+      <DependentUpon>Cap_Nhat_Trang_Thai_Thue_HHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Dang_Nhap_NT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Dang_Nhap_NT.Designer.cs">
+      <DependentUpon>Dang_Nhap_NT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_KhachTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_KhachTro.Designer.cs">
+      <DependentUpon>frm_KhachTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_PhieuTraPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_PhieuTraPhong.Designer.cs">
+      <DependentUpon>frm_PhieuTraPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_QLThietBi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_QLThietBi.Designer.cs">
+      <DependentUpon>frm_QLThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_Trangthaithue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_Trangthaithue.Designer.cs">
+      <DependentUpon>frm_Trangthaithue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_TTDichVu_NT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\frm_TTDichVu_NT.designer.cs">
+      <DependentUpon>frm_TTDichVu_NT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\HinhAnhPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\HinhAnhPhong.Designer.cs">
+      <DependentUpon>HinhAnhPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\PhucHoi_HHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\PhucHoi_HHH.Designer.cs">
+      <DependentUpon>PhucHoi_HHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Danhsachdongtien_HHH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\Danhsachdongtien_HHH.Designer.cs">
+      <DependentUpon>Danhsachdongtien_HHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\TinhTienTro_HHH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeThongGiaoDien\TinhTienTro_HHH.Designer.cs">
+      <DependentUpon>TinhTienTro_HHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThongXuLy\DangNhapDAO.cs" />
+    <Compile Include="HeThongXuLy\DangNhapDTO.cs" />
+    <Compile Include="HeThongXuLy\DichVuDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\DichVuDTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\KHACHTRO_DTO.cs" />
+    <Compile Include="HeThongXuLy\PHIEUTHUE_DAO.cs" />
+    <Compile Include="HeThongXuLy\PHIEUTHUE_DTO.cs" />
+    <Compile Include="HeThongXuLy\PhucHoiDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\PhucHoiDTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\SaoLuuDuLieuDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\SaoLuuDuLieuDTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\ThietBi_DAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\ThietBi_DTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\ThongtindichvuDAO.cs" />
+    <Compile Include="HeThongXuLy\ThongtindichvuDTO.cs" />
+    <Compile Include="HeThongXuLy\ThuTienDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\ThuTienDTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\TrangThaiThueDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\TrangThaiThueDTO_HHH.cs" />
+    <Compile Include="HeThongXuLy\TraPhongDAO_HHH.cs" />
+    <Compile Include="HeThongXuLy\TraPhongDTO_HHH.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HeThongGiaoDien\frm_PhieuThue.resx">
+      <DependentUpon>frm_PhieuThue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\NguoiNha.resx">
+      <DependentUpon>NguoiNha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\SaoLuu_HHH.resx">
+      <DependentUpon>SaoLuu_HHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\Cap_Nhat_Trang_Thai_Thue_HHH.resx">
+      <DependentUpon>Cap_Nhat_Trang_Thai_Thue_HHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\Dang_Nhap_NT.resx">
+      <DependentUpon>Dang_Nhap_NT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_KhachTro.resx">
+      <DependentUpon>frm_KhachTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_PhieuTraPhong.resx">
+      <DependentUpon>frm_PhieuTraPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_QLThietBi.resx">
+      <DependentUpon>frm_QLThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_Trangthaithue.resx">
+      <DependentUpon>frm_Trangthaithue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\frm_TTDichVu_NT.resx">
+      <DependentUpon>frm_TTDichVu_NT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\HinhAnhPhong.resx">
+      <DependentUpon>HinhAnhPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\PhucHoi_HHH.resx">
+      <DependentUpon>PhucHoi_HHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\Danhsachdongtien_HHH.resx">
+      <DependentUpon>Danhsachdongtien_HHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThongGiaoDien\TinhTienTro_HHH.resx">
+      <DependentUpon>TinhTienTro_HHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doimatkhau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32954670-confirm-icon-Stock-Vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon128-2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-hd-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knoxville-Green-Plumbing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\united.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\united1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+    <None Include="Resources\nhatro.jpg" />
+    <None Include="Resources\tải xuống.jpg" />
+    <None Include="Resources\Themes-icon.png" />
+    <None Include="Resources\shortcut-icon.png" />
+    <None Include="Resources\house-icon2.png" />
+    <None Include="Resources\house-icon1.png" />
+    <None Include="Resources\Network-Service-icon.png" />
+    <None Include="Resources\home-icon.png" />
+    <None Include="Resources\Thoat1.png" />
+    <None Include="Resources\icon_dangnhap.jpg" />
+    <None Include="Resources\LoadingCircle_finalani.gif" />
+    <None Include="Resources\InternetSlowdown_Day.gif" />
+    <None Include="Resources\1238108094.img.gif" />
+    <None Include="Resources\App-logout-icon.png" />
+    <None Include="Resources\Candy-House-icon.png" />
+    <None Include="Resources\Check-icon.png" />
+    <None Include="Resources\dollar-icon.png" />
+    <None Include="Resources\back-icon.png" />
+    <None Include="Resources\Cash-register-icon.png" />
+    <None Include="Resources\Folder-URL-History-icon.png" />
+    <None Include="Resources\folder-download-icon.png" />
+    <None Include="Resources\Delete-2-icon.png" />
+    <None Include="Resources\Accept-icon.png" />
+    <None Include="Resources\Close-icon.png" />
+    <None Include="Resources\Accept-icon %281%29.png" />
+    <None Include="Resources\Accept-icon %281%291.png" />
+    <None Include="Resources\Actions-trash-empty-icon.png" />
+    <None Include="Resources\chart-search-icon.png" />
+    <None Include="Resources\Apps-preferences-web-browser-shortcuts-icon.png" />
+    <None Include="Resources\Apps-preferences-web-browser-shortcuts-icon %281%29.png" />
+    <None Include="Resources\Apps-preferences-web-browser-shortcuts-icon %281%291.png" />
+    <None Include="Resources\back-icon1.png" />
+    <None Include="Resources\Actions-list-add-icon.png" />
+    <Content Include="Resources\HinhPhongTro\1439787048a3.jpg" />
+    <Content Include="Resources\HinhPhongTro\20141026_163738_9c887165fa94b105c8b6e1dab37e0d20.jpg" />
+    <Content Include="Resources\HinhPhongTro\20141117_153556_ba96933504875f94ddba503fb24e9904.jpg" />
+    <Content Include="Resources\HinhPhongTro\images884168_1_tan%281%29.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0207_zps785ff1e9.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0208_zps33a14374 %281%29.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0209_zpsb0fcae16 %281%29.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0209_zpsb0fcae16.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0210_zps9223f801.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0211_zpsaa6bc3cd.jpg" />
+    <Content Include="Resources\HinhPhongTro\IMG_0212_zps0e9ed343.jpg" />
+    <Content Include="Resources\HinhPhongTro\mua-dat-xay-phong-tro.jpg" />
+    <Content Include="Resources\HinhPhongTro\TTPnSKO.jpg" />
+    <Content Include="Resources\HinhPhongTro\ZzoDId3.jpg" />
+    <None Include="Resources\User-Group-icon.png" />
+    <None Include="Resources\House-icon %281%29.png" />
+    <None Include="Resources\house-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

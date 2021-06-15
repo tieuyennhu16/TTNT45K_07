@@ -1,0 +1,124 @@
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.Form1.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_DangNhap.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_Phieutraphong.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTphongtro.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\phongtro\obj\x86\Debug\phongtro.exe.licenses
+G:\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+G:\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+G:\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+G:\phongtro\bin\Debug\phongtro.exe.config
+G:\phongtro\bin\Debug\phongtro.exe
+G:\phongtro\bin\Debug\phongtro.pdb
+G:\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+G:\phongtro\obj\x86\Debug\phongtro.exe.licenses
+G:\phongtro\obj\x86\Debug\phongtro.exe
+G:\phongtro\obj\x86\Debug\phongtro.pdb
+E:\phongtro\bin\Debug\phongtro.exe.config
+E:\phongtro\obj\x86\Debug\phongtro.exe
+E:\phongtro\obj\x86\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.exe
+E:\Đồ Án VB\phongtro\bin\Debug\phongtro.pdb
+E:\Đồ Án VB\phongtro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+E:\Đồ Án VB\phongtro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Đồ Án VB\phongtro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe.licenses
+E:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe.config
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.exe
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\bin\Debug\phongtro.pdb
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_DichVu.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuChi.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThuTien.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe.licenses
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.exe
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.pdb
+J:\HK2(2015-2016)\Lap Trinh CSDL\Đồ Án VB\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.exe.config
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.exe
+C:\Users\Hoang Minh\Desktop\phongtro\bin\Debug\phongtro.pdb
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.SaoLuu_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.PhucHoi_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.exe.licenses
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.exe
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.pdb
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Danhsachdongtien_HHH.resources
+C:\Users\Hoang Minh\Desktop\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.NguoiNha.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.exe.config
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.exe
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.pdb
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.exe
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\bin\Debug\phongtro.pdb
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.csprojResolveAssemblyReference.cache
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuThue.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.NguoiNha.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.SaoLuu_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Cap_Nhat_Trang_Thai_Thue_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Dang_Nhap_NT.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.frm_Main.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_KhachTro.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_PhieuTraPhong.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_QLThietBi.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_Trangthaithue.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.GUI.frm_TTDichVu.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.HinhAnhPhong.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.PhucHoi_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.Danhsachdongtien_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.HeThongGiaoDien.TinhTienTro_HHH.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.Properties.Resources.resources
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.csproj.GenerateResource.Cache
+C:\Users\SonyVaio\Desktop\Báo cáo VB\FileChinh\phongtro\obj\x86\Debug\phongtro.exe.licenses
