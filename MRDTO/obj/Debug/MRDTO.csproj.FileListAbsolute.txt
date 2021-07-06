@@ -1,0 +1,11 @@
+D:\SmsDongle\QLPhongtro-master\MotelRoomManagement\MRDTO\bin\Debug\MRDTO.dll
+D:\SmsDongle\QLPhongtro-master\MotelRoomManagement\MRDTO\bin\Debug\MRDTO.pdb
+D:\SmsDongle\QLPhongtro-master\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.csprojResolveAssemblyReference.cache
+D:\SmsDongle\QLPhongtro-master\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.dll
+D:\SmsDongle\QLPhongtro-master\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.pdb
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\bin\Debug\MRDTO.dll
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\bin\Debug\MRDTO.pdb
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.dll
+C:\Users\ASUS\Desktop\MotelRoomManagement\MRDTO\obj\Debug\MRDTO.pdb
